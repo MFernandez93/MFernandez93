@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">A software developer from Rosario (Argentina).</h3>
 
-- 🔭 I’m currently working on **sharpening my backend skills, and learning some modern frontend technologies.**
+- 🔭 I’m currently working on **sharpening my backend skills, and becoming a better developer and team player.**
 
-- 🌱 I’m currently learning **Laravel, and Docker for local development (using docker-compose)**
+- 🌱 I’m currently following the **[backend developer roadmap](https://roadmap.sh/backend)**
 
-- 👯 I’m looking to collaborate on **Laravel-based open source projects (even better if they're beginner-friendly!)**
+- 👯 I’m looking to collaborate on **open source projects (even better if they're beginner-friendly!)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MFernandez93?tab=repositories](https://github.com/MFernandez93?tab=repositories)
-
-- 📝 I regularly write articles on [https://manelo.tech](https://manelo.tech)
 
 - 💬 Ask me about **PHP development, Git also is one of my strong areas :)**
 
 - 📫 How to reach me **dev.mfernandez@gmail.com**
 
-- ⚡ Fun fact **I'm terrible at stating facts that others may consider funny!**
+- ⚡ Fun fact: **I'm terrible at stating facts that others may consider funny!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
